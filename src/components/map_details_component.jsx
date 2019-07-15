@@ -74,7 +74,7 @@ export default function MapDetails(props) {
                 onChange={props.handleLongitudeChange}
             />
             <div style={selectWrapper}>
-                <InputLabel htmlFor="radial-distance" className={classes.label}>Radial Distance</InputLabel>
+                <InputLabel htmlFor="radial-distance" className={classes.label}>Distance within</InputLabel>
                 <Select
                     input={<Input id="radial-distance" className={classes.select}/>}
                     inputProps={{
