@@ -9,3 +9,5 @@ Steps to run:
 
 2) npm start
 ```
+
+Click Go and find available cars !
