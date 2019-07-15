@@ -12,7 +12,7 @@ const useStyles = makeStyles(theme => ({
     buttonStyle: {
         height: '5%',
         marginLeft: '1%',
-        marginTop: '3%'
+        marginTop: '2%'
     },
     select:{
         float:'left',
@@ -30,9 +30,9 @@ const useStyles = makeStyles(theme => ({
     },
 }));
 export const selectWrapper = {
-    width:'15%',
+        width:'15%',
         paddingRight:'1%',
-        paddingTop:'2%',
+        marginTop:'2%',
         paddingLeft:'2%'
 };
 
