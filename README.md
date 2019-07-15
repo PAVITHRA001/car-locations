@@ -11,3 +11,5 @@ Steps to run:
 ```
 
 Click Go and find available cars !
+
+Output screen: https://github.com/PAVITHRA001/car-locations/blob/master/LandingScreen.png
